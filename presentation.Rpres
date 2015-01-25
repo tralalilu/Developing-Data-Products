@@ -17,6 +17,8 @@ The application is available at *http://tralalilu.shinyapps.io/binomic/*.
 
 The code for the application and this presentation can be downloaded from *http://github.com/tralalilu/Developing-Data-Products*. 
 
+The presentation was created in RStudio Presenter (RStudio Version 0.98.1017).
+
 
 Application's structure
 ==========

@@ -53,7 +53,8 @@ shinyServer(
                         }, include.rownames = FALSE)
                 
                 output$plot <- renderPlot({
-                        input$plotButton
+                        if (input$plotButton == 0)
+                                return()
                         isolate(draw(input$degree, asn(input$rec), asn(input$imc), asn(input$reA), asn(input$imA)))
                 })
         } 

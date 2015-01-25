@@ -34,7 +34,7 @@ shinyUI(navbarPage("Binomic Equation Calculator",
                                             p('The solutions are the vertices of a regular \\(n\\)-sided polygon inscribed in this circle.')
                                             ),
                                     mainPanel(
-                                            p('Here is the plot!'), plotOutput("plot", width = 300, height = 300)
+                                            p('Here is the plot!'), plotOutput("plot", width = 500, height = 500)
                                     )
                             )
                    ),
