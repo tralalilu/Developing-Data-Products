@@ -15,7 +15,7 @@ A binomic equation is an equation of the form $(z-c)^n = A$, where $n$ is a natu
 
 The application is available at *http://tralalilu.shinyapps.io/binomic/*.
 
-The code can be downloaded from *http*. 
+The code for the application and this presentation can be downloaded from *http://github.com/tralalilu/Developing-Data-Products*. 
 
 
 Application's structure
